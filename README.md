@@ -12,6 +12,7 @@
 ## 必读推荐
 
 * [习惯的力量](https://book.douban.com/subject/20507212/)
+* [如何阅读一本书](https://book.douban.com/subject/1013208/)
 
 ## 文学
 
