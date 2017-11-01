@@ -12,8 +12,10 @@
 ## 必读推荐
 
 * [习惯的力量](https://book.douban.com/subject/20507212/)
+* [高效的秘密](https://book.douban.com/subject/27014998/)
 * [如何阅读一本书](https://book.douban.com/subject/1013208/)
-* [岛上书店](https://book.douban.com/subject/26340138/)
+* [金字塔原理2](https://book.douban.com/subject/26847359/)
+
 
 ## 文学
 * [岛上书店](https://book.douban.com/subject/26340138/)
@@ -29,10 +31,14 @@
 
 ## 经管
 - [x] [习惯的力量](https://book.douban.com/subject/20507212/) 
+- [x] [高效的秘密](https://book.douban.com/subject/20507212/) 
+* [金字塔原理](https://book.douban.com/subject/4882120/)
+- [x] [金字塔原理2](https://book.douban.com/subject/26847359/)
 
 
 ## 励志
 - [x] [子弹整理术](https://book.douban.com/subject/27092959/)
+- [x] [聪明人的一张纸工作整理术](https://book.douban.com/subject/26969301/)
 
 ## 生活
 
