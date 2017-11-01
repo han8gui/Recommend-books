@@ -28,6 +28,7 @@
 
 - [x] [如何阅读一本书](https://book.douban.com/subject/1013208/)
 - [x] [少有人走的路](https://book.douban.com/subject/1775691/)
+- [x] [中国大历史](https://book.douban.com/subject/1015699/)
 
 ## 经管
 * [金字塔原理](https://book.douban.com/subject/4882120/)
