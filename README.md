@@ -30,9 +30,9 @@
 - [x] [少有人走的路](https://book.douban.com/subject/1775691/)
 
 ## 经管
+* [金字塔原理](https://book.douban.com/subject/4882120/)
 - [x] [习惯的力量](https://book.douban.com/subject/20507212/) 
 - [x] [高效的秘密](https://book.douban.com/subject/20507212/) 
-* [金字塔原理](https://book.douban.com/subject/4882120/)
 - [x] [金字塔原理2](https://book.douban.com/subject/26847359/)
 
 
