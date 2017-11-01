@@ -35,7 +35,7 @@
 - [x] [习惯的力量](https://book.douban.com/subject/20507212/) 
 - [x] [高效的秘密](https://book.douban.com/subject/20507212/) 
 - [x] [金字塔原理2](https://book.douban.com/subject/26847359/)
-
+- [x] ~~[社交的本质：扎克伯格的商业秘密](https://book.douban.com/subject/26796712/)~~
 
 ## 励志
 - [x] [子弹整理术](https://book.douban.com/subject/27092959/)
