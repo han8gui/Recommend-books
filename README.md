@@ -20,7 +20,7 @@
 
 
 ## 文学
-* [岛上书店](https://book.douban.com/subject/26340138/)
+- [ ] [岛上书店](https://book.douban.com/subject/26340138/)
 
 
 ## 流行
@@ -33,7 +33,7 @@
 - [x] [中国大历史](https://book.douban.com/subject/1015699/)
 
 ## 经管
-* [金字塔原理](https://book.douban.com/subject/4882120/)
+- [ ] [金字塔原理](https://book.douban.com/subject/4882120/)
 - [x] [习惯的力量](https://book.douban.com/subject/20507212/) 
 - [x] [高效的秘密](https://book.douban.com/subject/20507212/) 
 - [x] [金字塔原理2](https://book.douban.com/subject/26847359/)
