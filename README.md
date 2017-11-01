@@ -11,10 +11,12 @@
 
 ## 必读推荐
 
+* [未来简史](https://book.douban.com/subject/25985021/)
 * [习惯的力量](https://book.douban.com/subject/20507212/)
 * [高效的秘密](https://book.douban.com/subject/27014998/)
 * [如何阅读一本书](https://book.douban.com/subject/1013208/)
 * [金字塔原理2](https://book.douban.com/subject/26847359/)
+* [必然](https://book.douban.com/subject/26653673/)
 
 
 ## 文学
@@ -25,8 +27,9 @@
 
 
 ## 社科
-- [x] [如何阅读一本书](https://book.douban.com/subject/1013208/)
+- [x] [未来简史](https://book.douban.com/subject/25985021/)
 - [x] [少有人走的路](https://book.douban.com/subject/1775691/)
+- [x] [如何阅读一本书](https://book.douban.com/subject/1013208/)
 - [x] [中国大历史](https://book.douban.com/subject/1015699/)
 
 ## 经管
@@ -45,3 +48,4 @@
 
 
 ## 科技
+- [x] [必然](https://book.douban.com/subject/26653673/)
